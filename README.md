@@ -7,4 +7,4 @@ all bootcamp project from 1 to 10
 <h1>4B)Bootcamp 2020 Project 4B: Develop Tiny Short Animation with React Hooks<br/>http://Tiny-Short-Animation-aman.surge.sh</h1>
 <h1>5)Bootcamp 2020 Bonus/Extra Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations<br/>
 http://animation-with-react-aman.surge.sh</h1>
-
+<h1>6)Bootcamp 2020 Project 6: Quiz App with React and TypeScript</h1>
