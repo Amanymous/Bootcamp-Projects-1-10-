@@ -10,3 +10,4 @@ http://animation-with-react-aman.surge.sh</h1>
 <h1>Typescript Projects</h1>
 <h1>6)Bootcamp 2020 Project 6: Quiz App with React and TypeScript</h1>
 <h1>7)Bootcamp 2020 Project 7: Expense Tracker TypeScript</h1>
+<h1>78)Bootcamp 2020 Project 7b:  TypeScript</h1>
