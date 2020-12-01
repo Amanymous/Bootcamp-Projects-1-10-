@@ -8,6 +8,7 @@ all bootcamp project from 1 to 10
 <h1>5)Bootcamp 2020 Bonus/Extra Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations<br/>
 http://animation-with-react-aman.surge.sh</h1>
 <h1>Typescript Projects</h1>
-<h1>6)Bootcamp 2020 Project 6: Quiz App with React and TypeScript</h1>
+<h1>6)Bootcamp 2020 Project 6: Quiz App with React and TypeScript<br/>http://QuizApp-ReactTypescript-Project-06-By-aman.surge.sh
+</h1>
 <h1>7)Bootcamp 2020 Project 7: Expense Tracker TypeScript</h1>
-<h1>78)Bootcamp 2020 Project 7b:  TypeScript</h1>
+<h1>7b)Bootcamp 2020 Project 7b:  TypeScript</h1>
