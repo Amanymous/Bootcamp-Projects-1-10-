@@ -12,4 +12,4 @@ http://animation-with-react-aman.surge.sh</h1>
 </h1>
 <h1>7)Bootcamp 2020 Project 7: Expense Tracker TypeScript<br/>https://github.com/Amanymous/Bootcamp-2020-Project-7A-Rebuild-the-Expense-Tracker-App-with-React-TypeScript-it-should-be-a-Progr<br/>https://Expense-Tracker-Typescript-Project-7A-By-aman.surge.sh/
 </h1>
-<h1>7b)Bootcamp 2020 Project 7b:Quiz App TypeScript<br/>https://github.com/Amanymous/Quiz-App-with-React-TypeScript-it-should-be-a-Progressive-Web-App-PWA-with-Offline-Capability-and-<br/></h1>
+<h1>7b)Bootcamp 2020 Project 7b:Quiz App TypeScript<br/>https://github.com/Amanymous/Quiz-App-with-React-TypeScript-it-should-be-a-Progressive-Web-App-PWA-with-Offline-Capability-and-<br/>https://github.com/Amanymous/Bootcamp-2020-Project-7B-Build-a-React-Timer-App-using-TypeScript-with-Test-Driven-Development<br/>http://Aman-TimerApp-7b.surge.sh/</h1>
