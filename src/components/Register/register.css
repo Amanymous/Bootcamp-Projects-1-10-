@@ -1,0 +1,78 @@
+.register{
+  max-width: 600px;
+  padding:20px;
+  margin: 0 auto;
+  letter-spacing:1.3px;
+  /* background-color:darkgray; */
+  position: relative;
+
+}
+label{
+  text-align: left;
+}
+
+.alert{
+  background-color:red;
+  padding:10px 0;
+  text-align: center;
+  color:black;
+  border-radius: 5px;
+  position: fixed;
+  top: 0;
+  opacity: 0.8;
+  box-shadow: 2px 2px 4px black;
+  width: 39.5%;
+}
+
+.register>input{
+  margin: 20px auto;
+  display: block;
+  width: -webkit-fill-available;
+  padding: 10px;
+  font-size: 20px;
+  border:2px solid gray;
+  border-radius: 5px;
+  color: gray;
+  margin-top: 5px;
+}
+input:focus {
+  outline: none;
+  background-color: #ddf3f8;
+}
+
+.register > input[type="submit"] {
+  margin-top: 30px;
+  color: black;
+  background-color: yellow;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: black;
+  color:darkgray;
+}
+
+.register > h1 {
+  font-size: 3.5rem;
+  margin-bottom: 10px;
+  text-align: center;
+  color: black(22, 134, 209);
+}
+
+.register > p {
+  font-size: 20px;
+}
+
+
+@media screen and (max-width: 800px) {
+  .register {
+    overflow: hidden;
+  }
+}
+
+/* @media screen and (max-width: 600px) {
+  .blob1,
+  .blob2 {
+    display: none;
+  }
+} */
